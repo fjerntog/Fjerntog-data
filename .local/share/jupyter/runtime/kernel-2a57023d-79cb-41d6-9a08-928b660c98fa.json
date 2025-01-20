@@ -1,0 +1,13 @@
+{
+  "shell_port": 55981,
+  "iopub_port": 40219,
+  "stdin_port": 46449,
+  "control_port": 55369,
+  "hb_port": 46901,
+  "ip": "127.0.0.1",
+  "key": "d666457f-48640b8b6f80ccb51759c9b9",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/Biltrafikk/Oslo-Bergen.ipynb"
+}
