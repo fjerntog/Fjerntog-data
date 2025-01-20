@@ -1,0 +1,1 @@
+Trafikkregistreringspunkt,Navn,Vegreferanse,Fra,Til,�r,Beregningsmetode,Trafikkmengde,Konfidensintervall start,Konfidensintervall slutt,Dekningsgrad (%),Antall enheter total,Antall enheter inkludert,Antall enheter ugyldig,Ikke gyldig lengde,Lengdekvalitetsgrad (%),Felt,"< 5,6m",">= 5,6m","5,6m - 7,6m","7,6m - 12,5m","12,5m - 16,0m",">= 16,0m","16,0m - 24,0m",">= 24,0m"
