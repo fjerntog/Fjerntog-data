@@ -1,0 +1,833 @@
+lufthavn,år,Passasjerer
+Alta,2009,343542
+Alta,2010,336454
+Alta,2011,359605
+Alta,2012,354627
+Alta,2013,359303
+Alta,2014,377681
+Alta,2015,398351
+Alta,2016,384565
+Alta,2017,388458
+Alta,2018,391935
+Alta,2019,377473
+Alta,2020,202868
+Alta,2021,256239
+Alta,2022,344846
+Alta,2023,365574
+Alta,2024,342102
+Andenes Andøya,2009,59756
+Andenes Andøya,2010,61747
+Andenes Andøya,2011,62136
+Andenes Andøya,2012,67358
+Andenes Andøya,2013,75750
+Andenes Andøya,2014,69084
+Andenes Andøya,2015,68154
+Andenes Andøya,2016,69039
+Andenes Andøya,2017,78714
+Andenes Andøya,2018,75312
+Andenes Andøya,2019,64950
+Andenes Andøya,2020,61482
+Andenes Andøya,2021,64057
+Andenes Andøya,2022,100661
+Andenes Andøya,2023,95552
+Andenes Andøya,2024,73748
+Bardufoss,2009,176895
+Bardufoss,2010,190438
+Bardufoss,2011,197576
+Bardufoss,2012,209218
+Bardufoss,2013,212991
+Bardufoss,2014,220761
+Bardufoss,2015,230770
+Bardufoss,2016,245211
+Bardufoss,2017,246187
+Bardufoss,2018,241697
+Bardufoss,2019,246098
+Bardufoss,2020,131514
+Bardufoss,2021,127812
+Bardufoss,2022,178531
+Bardufoss,2023,203732
+Bardufoss,2024,189611
+Bergen Flesland,2009,3588178
+Bergen Flesland,2010,3604882
+Bergen Flesland,2011,3963899
+Bergen Flesland,2012,4086638
+Bergen Flesland,2013,4200986
+Bergen Flesland,2014,4172709
+Bergen Flesland,2015,3867632
+Bergen Flesland,2016,3759995
+Bergen Flesland,2017,3851042
+Bergen Flesland,2018,3967206
+Bergen Flesland,2019,4053463
+Bergen Flesland,2020,2258109
+Bergen Flesland,2021,2819075
+Bergen Flesland,2022,4107972
+Bergen Flesland,2023,4173226
+Bergen Flesland,2024,3743336
+Berlevåg,2009,26656
+Berlevåg,2010,24659
+Berlevåg,2011,26049
+Berlevåg,2012,25946
+Berlevåg,2013,22893
+Berlevåg,2014,22059
+Berlevåg,2015,22739
+Berlevåg,2016,22752
+Berlevåg,2017,22403
+Berlevåg,2018,21296
+Berlevåg,2019,22370
+Berlevåg,2020,16606
+Berlevåg,2021,22499
+Berlevåg,2022,25203
+Berlevåg,2023,26707
+Berlevåg,2024,22692
+Bodø,2009,1734450
+Bodø,2010,1713538
+Bodø,2011,1869716
+Bodø,2012,1882561
+Bodø,2013,1763316
+Bodø,2014,1761766
+Bodø,2015,1791225
+Bodø,2016,1864889
+Bodø,2017,1909905
+Bodø,2018,1882327
+Bodø,2019,1922959
+Bodø,2020,1093301
+Bodø,2021,1287148
+Bodø,2022,1761813
+Bodø,2023,1857054
+Bodø,2024,1755652
+Brønnøysund Brønnøy,2009,141606
+Brønnøysund Brønnøy,2010,165455
+Brønnøysund Brønnøy,2011,187714
+Brønnøysund Brønnøy,2012,193606
+Brønnøysund Brønnøy,2013,196973
+Brønnøysund Brønnøy,2014,167587
+Brønnøysund Brønnøy,2015,157833
+Brønnøysund Brønnøy,2016,159629
+Brønnøysund Brønnøy,2017,133108
+Brønnøysund Brønnøy,2018,143262
+Brønnøysund Brønnøy,2019,142746
+Brønnøysund Brønnøy,2020,114836
+Brønnøysund Brønnøy,2021,117801
+Brønnøysund Brønnøy,2022,157982
+Brønnøysund Brønnøy,2023,152309
+Brønnøysund Brønnøy,2024,122799
+Båtsfjord,2009,40909
+Båtsfjord,2010,38419
+Båtsfjord,2011,39504
+Båtsfjord,2012,39880
+Båtsfjord,2013,38605
+Båtsfjord,2014,39282
+Båtsfjord,2015,40298
+Båtsfjord,2016,41602
+Båtsfjord,2017,42170
+Båtsfjord,2018,40658
+Båtsfjord,2019,39399
+Båtsfjord,2020,31494
+Båtsfjord,2021,42506
+Båtsfjord,2022,41031
+Båtsfjord,2023,48402
+Båtsfjord,2024,28904
+Fagernes Leirin,2009,4919
+Fagernes Leirin,2010,2797
+Fagernes Leirin,2011,4057
+Fagernes Leirin,2012,3165
+Fagernes Leirin,2013,3263
+Fagernes Leirin,2014,3537
+Fagernes Leirin,2015,3106
+Fagernes Leirin,2016,695
+Fagernes Leirin,2017,152
+Fagernes Leirin,2018,0
+Fagernes Leirin,2019,0
+Fagernes Leirin,2020,0
+Fagernes Leirin,2021,0
+Fagernes Leirin,2022,0
+Fagernes Leirin,2023,0
+Fagernes Leirin,2024,0
+Florø,2009,146691
+Florø,2010,159783
+Florø,2011,165850
+Florø,2012,191512
+Florø,2013,211188
+Florø,2014,211360
+Florø,2015,183700
+Florø,2016,154300
+Florø,2017,153896
+Florø,2018,150660
+Florø,2019,159276
+Florø,2020,115107
+Florø,2021,119228
+Florø,2022,150837
+Florø,2023,157597
+Florø,2024,132552
+Førde Bringeland,2009,83467
+Førde Bringeland,2010,84624
+Førde Bringeland,2011,89426
+Førde Bringeland,2012,92803
+Førde Bringeland,2013,93612
+Førde Bringeland,2014,90103
+Førde Bringeland,2015,86224
+Førde Bringeland,2016,87749
+Førde Bringeland,2017,89387
+Førde Bringeland,2018,89508
+Førde Bringeland,2019,85851
+Førde Bringeland,2020,34320
+Førde Bringeland,2021,40341
+Førde Bringeland,2022,64496
+Førde Bringeland,2023,68850
+Førde Bringeland,2024,70184
+Hammerfest,2009,160290
+Hammerfest,2010,153122
+Hammerfest,2011,175801
+Hammerfest,2012,173630
+Hammerfest,2013,198005
+Hammerfest,2014,199177
+Hammerfest,2015,203601
+Hammerfest,2016,201562
+Hammerfest,2017,226274
+Hammerfest,2018,207040
+Hammerfest,2019,182984
+Hammerfest,2020,141622
+Hammerfest,2021,197165
+Hammerfest,2022,200466
+Hammerfest,2023,178830
+Hammerfest,2024,165315
+Harstad/Narvik Evenes,2009,484786
+Harstad/Narvik Evenes,2010,525673
+Harstad/Narvik Evenes,2011,568120
+Harstad/Narvik Evenes,2012,603422
+Harstad/Narvik Evenes,2013,632670
+Harstad/Narvik Evenes,2014,667056
+Harstad/Narvik Evenes,2015,664444
+Harstad/Narvik Evenes,2016,684861
+Harstad/Narvik Evenes,2017,718006
+Harstad/Narvik Evenes,2018,728893
+Harstad/Narvik Evenes,2019,735401
+Harstad/Narvik Evenes,2020,393114
+Harstad/Narvik Evenes,2021,545592
+Harstad/Narvik Evenes,2022,789523
+Harstad/Narvik Evenes,2023,816198
+Harstad/Narvik Evenes,2024,744539
+Hasvik,2009,19703
+Hasvik,2010,19910
+Hasvik,2011,24200
+Hasvik,2012,23725
+Hasvik,2013,23170
+Hasvik,2014,21257
+Hasvik,2015,20730
+Hasvik,2016,20647
+Hasvik,2017,36064
+Hasvik,2018,41071
+Hasvik,2019,42114
+Hasvik,2020,35311
+Hasvik,2021,45366
+Hasvik,2022,49672
+Hasvik,2023,48314
+Hasvik,2024,21163
+Haugesund Karmøy,2009,394359
+Haugesund Karmøy,2010,408858
+Haugesund Karmøy,2011,441610
+Haugesund Karmøy,2012,443384
+Haugesund Karmøy,2013,458706
+Haugesund Karmøy,2014,457840
+Haugesund Karmøy,2015,455832
+Haugesund Karmøy,2016,462757
+Haugesund Karmøy,2017,484046
+Haugesund Karmøy,2018,477713
+Haugesund Karmøy,2019,479885
+Haugesund Karmøy,2020,203818
+Haugesund Karmøy,2021,267207
+Haugesund Karmøy,2022,400629
+Haugesund Karmøy,2023,465427
+Haugesund Karmøy,2024,388419
+Honningsvåg Valan,2009,38514
+Honningsvåg Valan,2010,38372
+Honningsvåg Valan,2011,36955
+Honningsvåg Valan,2012,35244
+Honningsvåg Valan,2013,33920
+Honningsvåg Valan,2014,35183
+Honningsvåg Valan,2015,34872
+Honningsvåg Valan,2016,37084
+Honningsvåg Valan,2017,37745
+Honningsvåg Valan,2018,36942
+Honningsvåg Valan,2019,37213
+Honningsvåg Valan,2020,28297
+Honningsvåg Valan,2021,38215
+Honningsvåg Valan,2022,42197
+Honningsvåg Valan,2023,42607
+Honningsvåg Valan,2024,25131
+Kirkenes Høybuktmoen,2009,270096
+Kirkenes Høybuktmoen,2010,275308
+Kirkenes Høybuktmoen,2011,300216
+Kirkenes Høybuktmoen,2012,307068
+Kirkenes Høybuktmoen,2013,306108
+Kirkenes Høybuktmoen,2014,309957
+Kirkenes Høybuktmoen,2015,315460
+Kirkenes Høybuktmoen,2016,313730
+Kirkenes Høybuktmoen,2017,320549
+Kirkenes Høybuktmoen,2018,317751
+Kirkenes Høybuktmoen,2019,317683
+Kirkenes Høybuktmoen,2020,171363
+Kirkenes Høybuktmoen,2021,197033
+Kirkenes Høybuktmoen,2022,257979
+Kirkenes Høybuktmoen,2023,294234
+Kirkenes Høybuktmoen,2024,271021
+Kristiansand Kjevik,2009,612628
+Kristiansand Kjevik,2010,606011
+Kristiansand Kjevik,2011,679352
+Kristiansand Kjevik,2012,733166
+Kristiansand Kjevik,2013,721990
+Kristiansand Kjevik,2014,722148
+Kristiansand Kjevik,2015,732750
+Kristiansand Kjevik,2016,717058
+Kristiansand Kjevik,2017,734956
+Kristiansand Kjevik,2018,764052
+Kristiansand Kjevik,2019,732832
+Kristiansand Kjevik,2020,332686
+Kristiansand Kjevik,2021,364453
+Kristiansand Kjevik,2022,568525
+Kristiansand Kjevik,2023,608403
+Kristiansand Kjevik,2024,559771
+Kristiansund Kvernberget,2009,350797
+Kristiansund Kvernberget,2010,339649
+Kristiansund Kvernberget,2011,360533
+Kristiansund Kvernberget,2012,384225
+Kristiansund Kvernberget,2013,392738
+Kristiansund Kvernberget,2014,380975
+Kristiansund Kvernberget,2015,362298
+Kristiansund Kvernberget,2016,302096
+Kristiansund Kvernberget,2017,303755
+Kristiansund Kvernberget,2018,317634
+Kristiansund Kvernberget,2019,323317
+Kristiansund Kvernberget,2020,212533
+Kristiansund Kvernberget,2021,203877
+Kristiansund Kvernberget,2022,278461
+Kristiansund Kvernberget,2023,284479
+Kristiansund Kvernberget,2024,294054
+Lakselv Banak,2009,62326
+Lakselv Banak,2010,59469
+Lakselv Banak,2011,66495
+Lakselv Banak,2012,77855
+Lakselv Banak,2013,68247
+Lakselv Banak,2014,65646
+Lakselv Banak,2015,64571
+Lakselv Banak,2016,65499
+Lakselv Banak,2017,64662
+Lakselv Banak,2018,62001
+Lakselv Banak,2019,59378
+Lakselv Banak,2020,46272
+Lakselv Banak,2021,54918
+Lakselv Banak,2022,59246
+Lakselv Banak,2023,59984
+Lakselv Banak,2024,69551
+Mehamn,2009,37323
+Mehamn,2010,34034
+Mehamn,2011,35327
+Mehamn,2012,34585
+Mehamn,2013,30193
+Mehamn,2014,31798
+Mehamn,2015,31905
+Mehamn,2016,34022
+Mehamn,2017,32675
+Mehamn,2018,31724
+Mehamn,2019,32034
+Mehamn,2020,26301
+Mehamn,2021,35529
+Mehamn,2022,40040
+Mehamn,2023,40662
+Mehamn,2024,21473
+Mo i Rana Røssvold,2009,124824
+Mo i Rana Røssvold,2010,127795
+Mo i Rana Røssvold,2011,135181
+Mo i Rana Røssvold,2012,135254
+Mo i Rana Røssvold,2013,131217
+Mo i Rana Røssvold,2014,135676
+Mo i Rana Røssvold,2015,136180
+Mo i Rana Røssvold,2016,145009
+Mo i Rana Røssvold,2017,127300
+Mo i Rana Røssvold,2018,113208
+Mo i Rana Røssvold,2019,109755
+Mo i Rana Røssvold,2020,67598
+Mo i Rana Røssvold,2021,103099
+Mo i Rana Røssvold,2022,132042
+Mo i Rana Røssvold,2023,133296
+Mo i Rana Røssvold,2024,90116
+Molde Årø,2009,339976
+Molde Årø,2010,370860
+Molde Årø,2011,411493
+Molde Årø,2012,423468
+Molde Årø,2013,425233
+Molde Årø,2014,442778
+Molde Årø,2015,466013
+Molde Årø,2016,465488
+Molde Årø,2017,430237
+Molde Årø,2018,411953
+Molde Årø,2019,411470
+Molde Årø,2020,177894
+Molde Årø,2021,192778
+Molde Årø,2022,330558
+Molde Årø,2023,379604
+Molde Årø,2024,313784
+Mosjøen Kjærstad,2009,99003
+Mosjøen Kjærstad,2010,106017
+Mosjøen Kjærstad,2011,108750
+Mosjøen Kjærstad,2012,111872
+Mosjøen Kjærstad,2013,111889
+Mosjøen Kjærstad,2014,109522
+Mosjøen Kjærstad,2015,109251
+Mosjøen Kjærstad,2016,110970
+Mosjøen Kjærstad,2017,85949
+Mosjøen Kjærstad,2018,76234
+Mosjøen Kjærstad,2019,76101
+Mosjøen Kjærstad,2020,53320
+Mosjøen Kjærstad,2021,75090
+Mosjøen Kjærstad,2022,78868
+Mosjøen Kjærstad,2023,88251
+Mosjøen Kjærstad,2024,68203
+Moss Rygge,2009,307947
+Moss Rygge,2010,297707
+Moss Rygge,2011,162577
+Moss Rygge,2012,59750
+Moss Rygge,2013,41523
+Moss Rygge,2014,428
+Moss Rygge,2015,108
+Moss Rygge,2016,38
+Moss Rygge,2017,0
+Moss Rygge,2018,0
+Moss Rygge,2019,0
+Moss Rygge,2020,0
+Moss Rygge,2021,0
+Moss Rygge,2022,0
+Moss Rygge,2023,0
+Moss Rygge,2024,0
+Namsos,2009,53494
+Namsos,2010,55289
+Namsos,2011,60884
+Namsos,2012,62093
+Namsos,2013,62902
+Namsos,2014,63057
+Namsos,2015,63457
+Namsos,2016,62806
+Namsos,2017,50940
+Namsos,2018,57534
+Namsos,2019,55442
+Namsos,2020,34611
+Namsos,2021,47584
+Namsos,2022,62940
+Namsos,2023,38979
+Namsos,2024,33884
+Narvik Framnes,2009,39722
+Narvik Framnes,2010,37323
+Narvik Framnes,2011,32147
+Narvik Framnes,2012,32611
+Narvik Framnes,2013,29325
+Narvik Framnes,2014,27330
+Narvik Framnes,2015,26314
+Narvik Framnes,2016,25880
+Narvik Framnes,2017,7002
+Narvik Framnes,2018,0
+Narvik Framnes,2019,0
+Narvik Framnes,2020,0
+Narvik Framnes,2021,0
+Narvik Framnes,2022,0
+Narvik Framnes,2023,0
+Narvik Framnes,2024,0
+Notodden,2009,2462
+Notodden,2010,2622
+Notodden,2011,3003
+Notodden,2012,4074
+Notodden,2013,5958
+Notodden,2014,5864
+Notodden,2015,4390
+Notodden,2016,2043
+Notodden,2017,2210
+Notodden,2018,736
+Notodden,2019,671
+Notodden,2020,0
+Notodden,2021,2
+Notodden,2022,2
+Notodden,2023,0
+Notodden,2024,0
+Oslo Gardermoen,2009,8713703
+Oslo Gardermoen,2010,9016779
+Oslo Gardermoen,2011,10000056
+Oslo Gardermoen,2012,10384194
+Oslo Gardermoen,2013,10586314
+Oslo Gardermoen,2014,10885498
+Oslo Gardermoen,2015,10887872
+Oslo Gardermoen,2016,11201798
+Oslo Gardermoen,2017,11617386
+Oslo Gardermoen,2018,12006302
+Oslo Gardermoen,2019,11854663
+Oslo Gardermoen,2020,5275942
+Oslo Gardermoen,2021,5830990
+Oslo Gardermoen,2022,9958933
+Oslo Gardermoen,2023,10682952
+Oslo Gardermoen,2024,10044422
+Røros,2009,13002
+Røros,2010,14162
+Røros,2011,16384
+Røros,2012,17848
+Røros,2013,22454
+Røros,2014,21284
+Røros,2015,20680
+Røros,2016,20938
+Røros,2017,24481
+Røros,2018,24502
+Røros,2019,26292
+Røros,2020,20530
+Røros,2021,6277
+Røros,2022,14147
+Røros,2023,17754
+Røros,2024,16568
+Rørvik Ryum,2009,47036
+Rørvik Ryum,2010,50773
+Rørvik Ryum,2011,53908
+Rørvik Ryum,2012,59543
+Rørvik Ryum,2013,64553
+Rørvik Ryum,2014,65677
+Rørvik Ryum,2015,65788
+Rørvik Ryum,2016,65868
+Rørvik Ryum,2017,49855
+Rørvik Ryum,2018,44095
+Rørvik Ryum,2019,46446
+Rørvik Ryum,2020,37944
+Rørvik Ryum,2021,41707
+Rørvik Ryum,2022,62075
+Rørvik Ryum,2023,46095
+Rørvik Ryum,2024,46396
+Røst,2009,20457
+Røst,2010,20015
+Røst,2011,22913
+Røst,2012,23966
+Røst,2013,21283
+Røst,2014,21237
+Røst,2015,20734
+Røst,2016,22877
+Røst,2017,22220
+Røst,2018,22436
+Røst,2019,21317
+Røst,2020,16324
+Røst,2021,17311
+Røst,2022,22540
+Røst,2023,20428
+Røst,2024,17912
+Sandane Anda,2009,53400
+Sandane Anda,2010,27262
+Sandane Anda,2011,52958
+Sandane Anda,2012,60313
+Sandane Anda,2013,53876
+Sandane Anda,2014,49103
+Sandane Anda,2015,48325
+Sandane Anda,2016,51913
+Sandane Anda,2017,55089
+Sandane Anda,2018,52680
+Sandane Anda,2019,48942
+Sandane Anda,2020,29163
+Sandane Anda,2021,36590
+Sandane Anda,2022,56055
+Sandane Anda,2023,62575
+Sandane Anda,2024,50281
+Sandefjord Torp,2009,338107
+Sandefjord Torp,2010,325552
+Sandefjord Torp,2011,346126
+Sandefjord Torp,2012,583427
+Sandefjord Torp,2013,631409
+Sandefjord Torp,2014,629883
+Sandefjord Torp,2015,487297
+Sandefjord Torp,2016,374951
+Sandefjord Torp,2017,362978
+Sandefjord Torp,2018,346575
+Sandefjord Torp,2019,347992
+Sandefjord Torp,2020,171345
+Sandefjord Torp,2021,233946
+Sandefjord Torp,2022,314261
+Sandefjord Torp,2023,318438
+Sandefjord Torp,2024,278643
+Sandnessjøen Stokka,2009,118710
+Sandnessjøen Stokka,2010,123004
+Sandnessjøen Stokka,2011,126275
+Sandnessjøen Stokka,2012,133887
+Sandnessjøen Stokka,2013,134519
+Sandnessjøen Stokka,2014,120406
+Sandnessjøen Stokka,2015,127771
+Sandnessjøen Stokka,2016,127675
+Sandnessjøen Stokka,2017,101140
+Sandnessjøen Stokka,2018,84915
+Sandnessjøen Stokka,2019,81921
+Sandnessjøen Stokka,2020,63778
+Sandnessjøen Stokka,2021,69249
+Sandnessjøen Stokka,2022,83719
+Sandnessjøen Stokka,2023,85787
+Sandnessjøen Stokka,2024,75553
+Skien Geitryggen,2009,39725
+Skien Geitryggen,2010,44720
+Skien Geitryggen,2011,44724
+Skien Geitryggen,2012,42315
+Skien Geitryggen,2013,35675
+Skien Geitryggen,2014,33310
+Skien Geitryggen,2015,13189
+Skien Geitryggen,2016,0
+Skien Geitryggen,2017,8
+Skien Geitryggen,2018,0
+Skien Geitryggen,2019,0
+Skien Geitryggen,2020,0
+Skien Geitryggen,2021,0
+Skien Geitryggen,2022,0
+Skien Geitryggen,2023,0
+Skien Geitryggen,2024,0
+Sogndal Haukåsen,2009,120839
+Sogndal Haukåsen,2010,112331
+Sogndal Haukåsen,2011,122286
+Sogndal Haukåsen,2012,124100
+Sogndal Haukåsen,2013,119288
+Sogndal Haukåsen,2014,114542
+Sogndal Haukåsen,2015,108026
+Sogndal Haukåsen,2016,111359
+Sogndal Haukåsen,2017,114779
+Sogndal Haukåsen,2018,110686
+Sogndal Haukåsen,2019,104807
+Sogndal Haukåsen,2020,78032
+Sogndal Haukåsen,2021,87852
+Sogndal Haukåsen,2022,126836
+Sogndal Haukåsen,2023,133024
+Sogndal Haukåsen,2024,110616
+Stavanger Sola,2009,2232085
+Stavanger Sola,2010,2231320
+Stavanger Sola,2011,2432934
+Stavanger Sola,2012,2521601
+Stavanger Sola,2013,2719389
+Stavanger Sola,2014,2784663
+Stavanger Sola,2015,2632532
+Stavanger Sola,2016,2574994
+Stavanger Sola,2017,2577898
+Stavanger Sola,2018,2665742
+Stavanger Sola,2019,2722908
+Stavanger Sola,2020,1314120
+Stavanger Sola,2021,1491027
+Stavanger Sola,2022,2328196
+Stavanger Sola,2023,2415549
+Stavanger Sola,2024,2188424
+Stokmarknes Skagen,2009,121317
+Stokmarknes Skagen,2010,118532
+Stokmarknes Skagen,2011,123780
+Stokmarknes Skagen,2012,127073
+Stokmarknes Skagen,2013,123447
+Stokmarknes Skagen,2014,118490
+Stokmarknes Skagen,2015,120068
+Stokmarknes Skagen,2016,120221
+Stokmarknes Skagen,2017,139730
+Stokmarknes Skagen,2018,126322
+Stokmarknes Skagen,2019,110615
+Stokmarknes Skagen,2020,63159
+Stokmarknes Skagen,2021,103078
+Stokmarknes Skagen,2022,137432
+Stokmarknes Skagen,2023,139708
+Stokmarknes Skagen,2024,112368
+Stord Sørstokken,2009,21030
+Stord Sørstokken,2010,22307
+Stord Sørstokken,2011,23281
+Stord Sørstokken,2012,19693
+Stord Sørstokken,2013,28333
+Stord Sørstokken,2014,37223
+Stord Sørstokken,2015,46670
+Stord Sørstokken,2016,42237
+Stord Sørstokken,2017,34408
+Stord Sørstokken,2018,36695
+Stord Sørstokken,2019,38471
+Stord Sørstokken,2020,12676
+Stord Sørstokken,2021,15723
+Stord Sørstokken,2022,21289
+Stord Sørstokken,2023,10346
+Stord Sørstokken,2024,32045
+Svalbard Longyear,2009,106243
+Svalbard Longyear,2010,104298
+Svalbard Longyear,2011,107504
+Svalbard Longyear,2012,112376
+Svalbard Longyear,2013,148553
+Svalbard Longyear,2014,152716
+Svalbard Longyear,2015,158091
+Svalbard Longyear,2016,164100
+Svalbard Longyear,2017,160435
+Svalbard Longyear,2018,176870
+Svalbard Longyear,2019,178520
+Svalbard Longyear,2020,68508
+Svalbard Longyear,2021,83301
+Svalbard Longyear,2022,159940
+Svalbard Longyear,2023,160770
+Svalbard Longyear,2024,164627
+Svolvær Helle,2009,80980
+Svolvær Helle,2010,79543
+Svolvær Helle,2011,89352
+Svolvær Helle,2012,85858
+Svolvær Helle,2013,70290
+Svolvær Helle,2014,82081
+Svolvær Helle,2015,86337
+Svolvær Helle,2016,88494
+Svolvær Helle,2017,119440
+Svolvær Helle,2018,112378
+Svolvær Helle,2019,98499
+Svolvær Helle,2020,55617
+Svolvær Helle,2021,74074
+Svolvær Helle,2022,101163
+Svolvær Helle,2023,104789
+Svolvær Helle,2024,97672
+Sørkjosen,2009,33773
+Sørkjosen,2010,31306
+Sørkjosen,2011,36315
+Sørkjosen,2012,35428
+Sørkjosen,2013,39283
+Sørkjosen,2014,36344
+Sørkjosen,2015,34003
+Sørkjosen,2016,37968
+Sørkjosen,2017,31364
+Sørkjosen,2018,27458
+Sørkjosen,2019,28826
+Sørkjosen,2020,21472
+Sørkjosen,2021,28903
+Sørkjosen,2022,28671
+Sørkjosen,2023,27844
+Sørkjosen,2024,14392
+Tromsø Langnes,2009,1625188
+Tromsø Langnes,2010,1646925
+Tromsø Langnes,2011,1837025
+Tromsø Langnes,2012,1964695
+Tromsø Langnes,2013,1964502
+Tromsø Langnes,2014,1985832
+Tromsø Langnes,2015,2021467
+Tromsø Langnes,2016,2113797
+Tromsø Langnes,2017,2237263
+Tromsø Langnes,2018,2221778
+Tromsø Langnes,2019,2231581
+Tromsø Langnes,2020,1241210
+Tromsø Langnes,2021,1583055
+Tromsø Langnes,2022,2247183
+Tromsø Langnes,2023,2238923
+Tromsø Langnes,2024,2069791
+Trondheim Værnes,2009,2849606
+Trondheim Værnes,2010,2900631
+Trondheim Værnes,2011,3190057
+Trondheim Værnes,2012,3342973
+Trondheim Værnes,2013,3391399
+Trondheim Værnes,2014,3429151
+Trondheim Værnes,2015,3382131
+Trondheim Værnes,2016,3406389
+Trondheim Værnes,2017,3495650
+Trondheim Værnes,2018,3522685
+Trondheim Værnes,2019,3460855
+Trondheim Værnes,2020,1661392
+Trondheim Værnes,2021,1982103
+Trondheim Værnes,2022,3209147
+Trondheim Værnes,2023,3294374
+Trondheim Værnes,2024,3038810
+Vadsø,2009,118048
+Vadsø,2010,121593
+Vadsø,2011,128185
+Vadsø,2012,127810
+Vadsø,2013,115062
+Vadsø,2014,125889
+Vadsø,2015,128548
+Vadsø,2016,126298
+Vadsø,2017,131352
+Vadsø,2018,127540
+Vadsø,2019,127786
+Vadsø,2020,104848
+Vadsø,2021,128677
+Vadsø,2022,145109
+Vadsø,2023,142720
+Vadsø,2024,84043
+Vardø Svartnes,2009,36734
+Vardø Svartnes,2010,41955
+Vardø Svartnes,2011,50486
+Vardø Svartnes,2012,50203
+Vardø Svartnes,2013,44571
+Vardø Svartnes,2014,47584
+Vardø Svartnes,2015,49545
+Vardø Svartnes,2016,48567
+Vardø Svartnes,2017,48456
+Vardø Svartnes,2018,46877
+Vardø Svartnes,2019,47487
+Vardø Svartnes,2020,32167
+Vardø Svartnes,2021,47326
+Vardø Svartnes,2022,52399
+Vardø Svartnes,2023,54622
+Vardø Svartnes,2024,36167
+Vestvågøy Leknes,2009,108741
+Vestvågøy Leknes,2010,108949
+Vestvågøy Leknes,2011,113355
+Vestvågøy Leknes,2012,113910
+Vestvågøy Leknes,2013,119141
+Vestvågøy Leknes,2014,111535
+Vestvågøy Leknes,2015,110583
+Vestvågøy Leknes,2016,118935
+Vestvågøy Leknes,2017,151547
+Vestvågøy Leknes,2018,143743
+Vestvågøy Leknes,2019,134292
+Vestvågøy Leknes,2020,93019
+Vestvågøy Leknes,2021,84444
+Vestvågøy Leknes,2022,105324
+Vestvågøy Leknes,2023,114959
+Vestvågøy Leknes,2024,127632
+Værøy,2009,9766
+Værøy,2010,6516
+Værøy,2011,7295
+Værøy,2012,4617
+Værøy,2013,9577
+Værøy,2014,9585
+Værøy,2015,9262
+Værøy,2016,9042
+Værøy,2017,8877
+Værøy,2018,6440
+Værøy,2019,7512
+Værøy,2020,6237
+Værøy,2021,7240
+Værøy,2022,7182
+Værøy,2023,8037
+Værøy,2024,7184
+Ålesund Vigra,2009,713294
+Ålesund Vigra,2010,746164
+Ålesund Vigra,2011,831213
+Ålesund Vigra,2012,890268
+Ålesund Vigra,2013,851827
+Ålesund Vigra,2014,821510
+Ålesund Vigra,2015,781591
+Ålesund Vigra,2016,792350
+Ålesund Vigra,2017,816743
+Ålesund Vigra,2018,847304
+Ålesund Vigra,2019,861517
+Ålesund Vigra,2020,388752
+Ålesund Vigra,2021,438093
+Ålesund Vigra,2022,734100
+Ålesund Vigra,2023,789283
+Ålesund Vigra,2024,702567
+Ørland,2009,4227
+Ørland,2010,6629
+Ørland,2011,6731
+Ørland,2012,7273
+Ørland,2013,6159
+Ørland,2014,5852
+Ørland,2015,5900
+Ørland,2016,5439
+Ørland,2017,4193
+Ørland,2018,22064
+Ørland,2019,22098
+Ørland,2020,10044
+Ørland,2021,12817
+Ørland,2022,16574
+Ørland,2023,26236
+Ørland,2024,24530
+Ørsta-Volda Hovden,2009,94071
+Ørsta-Volda Hovden,2010,99711
+Ørsta-Volda Hovden,2011,103382
+Ørsta-Volda Hovden,2012,119129
+Ørsta-Volda Hovden,2013,129037
+Ørsta-Volda Hovden,2014,126366
+Ørsta-Volda Hovden,2015,117773
+Ørsta-Volda Hovden,2016,107265
+Ørsta-Volda Hovden,2017,114596
+Ørsta-Volda Hovden,2018,122189
+Ørsta-Volda Hovden,2019,111472
+Ørsta-Volda Hovden,2020,60779
+Ørsta-Volda Hovden,2021,74569
+Ørsta-Volda Hovden,2022,106677
+Ørsta-Volda Hovden,2023,99981
+Ørsta-Volda Hovden,2024,131223

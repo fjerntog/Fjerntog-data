@@ -1,0 +1,541 @@
+transportmåte,ruteform,statistikkvariabel,år,value
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2015,11782990.0
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2016,13075626.0
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2017,13736373.0
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2018,14643812.0
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2019,15301043.0
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2020,8543643.0
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2021,8658360.0
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2022,13614076.0
+Alle transportformer,I alt,Billettinntekter (1 000 kr),2023,15839670.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2015,601249.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2016,625120.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2017,662794.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2018,682276.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2019,718193.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2020,450516.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2021,471498.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2022,626181.0
+Alle transportformer,I alt,Passasjerer i alt (1 000 passasjerer),2023,713044.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2015,57083.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2016,56977.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2017,57891.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2018,54817.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2019,59781.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2020,43018.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2021,55022.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2022,56366.0
+Alle transportformer,I alt,Skoleskyss (1 000 passasjerer),2023,54173.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2015,470330.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2016,493848.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2017,531342.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2018,549727.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2019,578018.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2020,364899.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2021,375074.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2022,503120.0
+Alle transportformer,I alt,Ordinære (1 000 passasjerer),2023,580651.0
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2015,
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2016,
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2017,
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2018,
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2019,
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2020,
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2021,
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2022,
+Alle transportformer,Kommersielle ruter,Billettinntekter (1 000 kr),2023,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2015,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2016,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2017,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2018,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2019,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2020,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2021,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2022,
+Alle transportformer,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2023,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2015,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2016,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2017,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2018,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2019,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2020,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2021,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2022,
+Alle transportformer,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2023,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2015,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2016,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2017,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2018,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2019,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2020,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2021,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2022,
+Alle transportformer,Kommersielle ruter,Ordinære (1 000 passasjerer),2023,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2015,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2016,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2017,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2018,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2019,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2020,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2021,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2022,
+Alle transportformer,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2023,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2015,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2016,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2017,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2018,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2019,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2020,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2021,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2022,
+Alle transportformer,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2023,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2015,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2016,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2017,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2018,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2019,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2020,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2021,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2022,
+Alle transportformer,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2023,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2015,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2016,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2017,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2018,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2019,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2020,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2021,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2022,
+Alle transportformer,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2023,
+Buss,I alt,Billettinntekter (1 000 kr),2015,4756034.0
+Buss,I alt,Billettinntekter (1 000 kr),2016,5485701.0
+Buss,I alt,Billettinntekter (1 000 kr),2017,5748801.0
+Buss,I alt,Billettinntekter (1 000 kr),2018,6098367.0
+Buss,I alt,Billettinntekter (1 000 kr),2019,6325195.0
+Buss,I alt,Billettinntekter (1 000 kr),2020,3478613.0
+Buss,I alt,Billettinntekter (1 000 kr),2021,3494534.0
+Buss,I alt,Billettinntekter (1 000 kr),2022,5269509.0
+Buss,I alt,Billettinntekter (1 000 kr),2023,6589795.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2015,356200.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2016,368621.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2017,395813.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2018,403910.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2019,434226.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2020,290659.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2021,307424.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2022,386951.0
+Buss,I alt,Passasjerer i alt (1 000 passasjerer),2023,439424.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2015,56783.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2016,56506.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2017,57398.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2018,54367.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2019,59362.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2020,42720.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2021,54596.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2022,55754.0
+Buss,I alt,Skoleskyss (1 000 passasjerer),2023,53567.0
+Buss,I alt,Ordinære (1 000 passasjerer),2015,299418.0
+Buss,I alt,Ordinære (1 000 passasjerer),2016,312116.0
+Buss,I alt,Ordinære (1 000 passasjerer),2017,338416.0
+Buss,I alt,Ordinære (1 000 passasjerer),2018,349543.0
+Buss,I alt,Ordinære (1 000 passasjerer),2019,374864.0
+Buss,I alt,Ordinære (1 000 passasjerer),2020,247939.0
+Buss,I alt,Ordinære (1 000 passasjerer),2021,252828.0
+Buss,I alt,Ordinære (1 000 passasjerer),2022,331197.0
+Buss,I alt,Ordinære (1 000 passasjerer),2023,385857.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2015,773491.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2016,1238300.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2017,1165627.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2018,1274666.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2019,1319267.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2020,545976.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2021,478829.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2022,881425.0
+Buss,Kommersielle ruter,Billettinntekter (1 000 kr),2023,1442054.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2015,6267.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2016,9737.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2017,9029.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2018,9423.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2019,9067.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2020,3260.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2021,2494.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2022,4995.0
+Buss,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2023,6195.0
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2015,
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2016,
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2017,
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2018,
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2019,
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2020,
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2021,
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2022,
+Buss,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2023,
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2015,6267.0
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2016,9737.0
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2017,9029.0
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2018,9423.0
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2019,9067.0
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2020,3260.0
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2021,2494.0
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2022,4995.0
+Buss,Kommersielle ruter,Ordinære (1 000 passasjerer),2023,6195.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2015,3982543.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2016,4247401.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2017,4583173.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2018,4823701.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2019,5005928.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2020,2932636.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2021,3015705.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2022,4388083.0
+Buss,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2023,5147741.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2015,349934.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2016,358884.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2017,386784.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2018,394487.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2019,425158.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2020,287399.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2021,304929.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2022,381956.0
+Buss,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2023,433229.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2015,56783.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2016,56506.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2017,57398.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2018,54367.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2019,59362.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2020,42720.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2021,54596.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2022,55754.0
+Buss,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2023,53567.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2015,293151.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2016,302378.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2017,329386.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2018,340120.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2019,365796.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2020,244679.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2021,250334.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2022,326202.0
+Buss,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2023,379662.0
+Båt,I alt,Billettinntekter (1 000 kr),2015,523670.0
+Båt,I alt,Billettinntekter (1 000 kr),2016,572168.0
+Båt,I alt,Billettinntekter (1 000 kr),2017,594126.0
+Båt,I alt,Billettinntekter (1 000 kr),2018,606571.0
+Båt,I alt,Billettinntekter (1 000 kr),2019,609018.0
+Båt,I alt,Billettinntekter (1 000 kr),2020,381317.0
+Båt,I alt,Billettinntekter (1 000 kr),2021,404733.0
+Båt,I alt,Billettinntekter (1 000 kr),2022,561794.0
+Båt,I alt,Billettinntekter (1 000 kr),2023,603187.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2015,10921.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2016,11423.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2017,11538.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2018,11512.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2019,11582.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2020,7471.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2021,7727.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2022,10240.0
+Båt,I alt,Passasjerer i alt (1 000 passasjerer),2023,10652.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2015,268.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2016,341.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2017,359.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2018,335.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2019,302.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2020,238.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2021,323.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2022,448.0
+Båt,I alt,Skoleskyss (1 000 passasjerer),2023,361.0
+Båt,I alt,Ordinære (1 000 passasjerer),2015,10653.0
+Båt,I alt,Ordinære (1 000 passasjerer),2016,11082.0
+Båt,I alt,Ordinære (1 000 passasjerer),2017,11179.0
+Båt,I alt,Ordinære (1 000 passasjerer),2018,11176.0
+Båt,I alt,Ordinære (1 000 passasjerer),2019,11280.0
+Båt,I alt,Ordinære (1 000 passasjerer),2020,7233.0
+Båt,I alt,Ordinære (1 000 passasjerer),2021,7404.0
+Båt,I alt,Ordinære (1 000 passasjerer),2022,9792.0
+Båt,I alt,Ordinære (1 000 passasjerer),2023,10290.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2015,23662.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2016,27651.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2017,32749.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2018,33528.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2019,30629.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2020,16612.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2021,18729.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2022,25635.0
+Båt,Kommersielle ruter,Billettinntekter (1 000 kr),2023,27497.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2015,1529.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2016,1876.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2017,2103.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2018,2150.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2019,2182.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2020,1527.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2021,1621.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2022,2039.0
+Båt,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2023,2157.0
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2015,
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2016,
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2017,
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2018,
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2019,
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2020,
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2021,
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2022,
+Båt,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2023,
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2015,1529.0
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2016,1876.0
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2017,2103.0
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2018,2150.0
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2019,2182.0
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2020,1527.0
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2021,1621.0
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2022,2039.0
+Båt,Kommersielle ruter,Ordinære (1 000 passasjerer),2023,2157.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2015,500008.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2016,544517.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2017,561378.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2018,573043.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2019,578390.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2020,364706.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2021,386004.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2022,536159.0
+Båt,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2023,575691.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2015,9392.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2016,9547.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2017,9435.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2018,9362.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2019,9400.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2020,5944.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2021,6106.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2022,8201.0
+Båt,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2023,8495.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2015,268.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2016,341.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2017,359.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2018,335.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2019,302.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2020,238.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2021,323.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2022,448.0
+Båt,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2023,361.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2015,9124.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2016,9206.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2017,9076.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2018,9027.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2019,9098.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2020,5706.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2021,5783.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2022,7753.0
+Båt,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2023,8134.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2015,1510909.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2016,1680733.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2017,1853372.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2018,1921255.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2019,1995331.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2020,1126271.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2021,1160991.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2022,1841388.0
+Sporvei og forstadsbane,I alt,Billettinntekter (1 000 kr),2023,1964282.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2015,160291.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2016,170781.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2017,181882.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2018,189122.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2019,191991.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2020,109788.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2021,114946.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2022,162294.0
+Sporvei og forstadsbane,I alt,Passasjerer i alt (1 000 passasjerer),2023,184748.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2015,33.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2016,131.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2017,135.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2018,115.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2019,116.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2020,60.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2021,104.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2022,164.0
+Sporvei og forstadsbane,I alt,Skoleskyss (1 000 passasjerer),2023,245.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2015,160259.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2016,170650.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2017,181747.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2018,189008.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2019,191875.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2020,109728.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2021,114842.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2022,162131.0
+Sporvei og forstadsbane,I alt,Ordinære (1 000 passasjerer),2023,184504.0
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2015,
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2016,
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2017,
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2018,
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2019,
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2020,
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2021,
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2022,
+Sporvei og forstadsbane,Kommersielle ruter,Billettinntekter (1 000 kr),2023,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2015,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2016,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2017,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2018,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2019,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2020,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2021,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2022,
+Sporvei og forstadsbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2023,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2015,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2016,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2017,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2018,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2019,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2020,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2021,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2022,
+Sporvei og forstadsbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2023,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2015,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2016,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2017,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2018,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2019,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2020,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2021,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2022,
+Sporvei og forstadsbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2023,
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2015,1510909.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2016,1680733.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2017,1853372.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2018,1921255.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2019,1995331.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2020,1126271.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2021,1160991.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2022,1841388.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2023,1964282.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2015,160291.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2016,170781.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2017,181882.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2018,189122.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2019,191991.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2020,109788.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2021,114946.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2022,162294.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2023,184748.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2015,33.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2016,131.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2017,135.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2018,115.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2019,116.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2020,60.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2021,104.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2022,164.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2023,245.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2015,160259.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2016,170650.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2017,181747.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2018,189008.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2019,191875.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2020,109728.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2021,114842.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2022,162131.0
+Sporvei og forstadsbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2023,184504.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2015,4992378.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2016,5337024.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2017,5540075.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2018,6017619.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2019,6371499.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2020,3557442.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2021,3598103.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2022,5941385.0
+Jernbane,I alt,Billettinntekter (1 000 kr),2023,6682407.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2015,73836.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2016,74295.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2017,73561.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2018,77732.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2019,80394.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2020,42599.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2021,41401.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2022,66695.0
+Jernbane,I alt,Passasjerer i alt (1 000 passasjerer),2023,78220.0
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2015,
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2016,
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2017,
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2018,
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2019,
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2020,
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2021,
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2022,
+Jernbane,I alt,Skoleskyss (1 000 passasjerer),2023,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2015,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2016,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2017,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2018,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2019,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2020,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2021,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2022,
+Jernbane,I alt,Ordinære (1 000 passasjerer),2023,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2015,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2016,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2017,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2018,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2019,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2020,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2021,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2022,
+Jernbane,Kommersielle ruter,Billettinntekter (1 000 kr),2023,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2015,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2016,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2017,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2018,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2019,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2020,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2021,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2022,
+Jernbane,Kommersielle ruter,Passasjerer i alt (1 000 passasjerer),2023,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2015,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2016,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2017,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2018,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2019,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2020,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2021,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2022,
+Jernbane,Kommersielle ruter,Skoleskyss (1 000 passasjerer),2023,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2015,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2016,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2017,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2018,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2019,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2020,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2021,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2022,
+Jernbane,Kommersielle ruter,Ordinære (1 000 passasjerer),2023,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2015,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2016,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2017,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2018,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2019,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2020,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2021,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2022,
+Jernbane,Fylkeskommunale ruter,Billettinntekter (1 000 kr),2023,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2015,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2016,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2017,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2018,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2019,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2020,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2021,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2022,
+Jernbane,Fylkeskommunale ruter,Passasjerer i alt (1 000 passasjerer),2023,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2015,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2016,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2017,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2018,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2019,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2020,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2021,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2022,
+Jernbane,Fylkeskommunale ruter,Skoleskyss (1 000 passasjerer),2023,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2015,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2016,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2017,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2018,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2019,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2020,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2021,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2022,
+Jernbane,Fylkeskommunale ruter,Ordinære (1 000 passasjerer),2023,
